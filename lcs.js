@@ -1,6 +1,6 @@
 //LongestCommonSubsequence
 (function(){
-    const abc=document.getElementById('button');
+    const abc=document.getElementById('btn1');
     abc.addEventListener('click', function () {
             let i=5;
             i=i+5;
